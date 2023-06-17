@@ -1,7 +1,10 @@
 .imagen1 {
-    height: 90px;
-    width: 90px;
+    height: 100px;
+    width: 150px;
 }
 .p1 {
     text-align: justify;
+}
+.tabla, th, td, tr{
+    border: 1px solid;
 }
